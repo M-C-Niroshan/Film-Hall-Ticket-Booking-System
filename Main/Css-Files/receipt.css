@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+    padding: 40px 0;
+    background: #ddd;
+}
+h1 {
+    color: #66cc6f;
+    font-family: "Nunito Sans", "Helvetica Neue", sans-serif;
+    font-weight: 900;
+    font-size: 40px;
+    margin-bottom: 10px;
+    margin-top: -1px;
+}
+p {
+    color: black;
+    font-family: "Nunito Sans", "Helvetica Neue", sans-serif;
+    font-size:20px;
+    margin: 0;
+}
+i {
+    color: #66cc6f;
+    font-size: 100px;
+    line-height: 200px;
+    margin-left:-15px;
+}
+.card {
+    background: white;
+    padding: 60px;
+    border-radius: 4px;
+    box-shadow: 0 6px 20px 0 rgba(0,0,0,0.19);
+    display: inline-block;
+    margin: 0 auto;
+    width: 400px;
+    height: 500px;
+    margin-top: -25px;
+}
+.receipt{
+    width: 150px;
+    background-color: rgb(65, 202, 127);
+    border-color: rgb(65, 202, 127);
+    border-radius: 8px;
+    color: white;
+    justify-content: center;
+    width: 120px;
+    height: 50px;
+    margin-top: 65px;
+    margin-top: 30px;
+    
+}

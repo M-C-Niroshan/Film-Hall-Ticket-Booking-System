@@ -1,0 +1,16 @@
+--------------------- Instructions ---------------------
+
+Step 1: First go to the php myadmin (http://localhost/phpmyadmin/) and check already exists `showtime_database'. If database already exists drop that database.
+
+step 2: Extract given Zip folder to 
+		If you use WAMP server: C:\wamp64\www
+		If you use XWAMP server: C:\xampp\htdocs
+
+step 2: Now go to the php myadmin and go to the import tab. After import given "CreateDabaseAndTable.sql" file and click go button.
+
+step 4: Now You can run website
+		Path: http://localhost/Web-project-Final%20(update-10-12-2023)/Main/home.php 
+
+** Important **
+If website not working correctly first you need to open "db.php" file in code editor and update line no: 2
+		$servername = "localhost:3306"; 
